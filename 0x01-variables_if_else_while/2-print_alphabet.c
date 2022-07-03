@@ -14,6 +14,7 @@ char ch;
 for (ch = 'a'; ch <= 'b'; ch++)
 {
 	putchar(ch);
+	putchar(‘\n’);
 }
 
 return (0);
