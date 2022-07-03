@@ -14,7 +14,7 @@ int num;
 
 for (num = '0'; num < '10'; num++)
 {
-	putchar(num);
+	putchar("%d");
 }
 putchar(10);
 
