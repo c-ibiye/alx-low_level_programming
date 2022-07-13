@@ -5,7 +5,6 @@
  * print_array - function that prints n elements of an array of integers
  * @a: first parameter
  * @n: second parameter
- *
  * return: nothing
  */
 
@@ -22,4 +21,4 @@ void print_array(int *a, int n)
 		}
 	}
 	printf("\n");
-}		
+}
