@@ -5,7 +5,7 @@
  * @dest: first parameter to evaluate
  * @src: second parameter to evaluate
  *
- * return: dest
+ * Return: nothing
  */
 
 char *_strcpy(char *dest, char *src)
