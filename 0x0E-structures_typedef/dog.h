@@ -2,8 +2,8 @@
 #define DOG_H
 
 /**
- * dog_t - Typedef for struct dog
- *
+ * Using typedef, declare 'dog_t' to have type
+ * 'struct dog'
  */
 
 typedef struct dog dog_t;
